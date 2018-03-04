@@ -127,7 +127,8 @@ IT専門Webサイトで複数執筆
 
 ### 株式会社グラニ (2013/04〜)
 
-#### インフラ基盤構築
+
+#### プロダクト開発
 
 * [神獄のヴァルハラゲート](http://jp.apps.gree.net/ja/58748/?ent_code=PCSEGG00)
   * 2013/4/1～
@@ -149,20 +150,17 @@ IT専門Webサイトで複数執筆
   * 2015～
   * Unityアプリケーション/gRPCサーバー向けのインフラ基盤の構築
   * クローズドベータにおける課題の抽出と解決モニタリング環境の一新(Datadog)
-
-#### プロダクト開発
-
 * [Grani VR Office Tour](http://grani.jp/product/vrofficetour/en/index.html)
   * 2016/9/15～2016/11/8
   * HTC VIVE 向けPC VRアプリケーション開発リーダーとしてUnityを使ったVRアプリケーション開発、チームの主導
   * 社外モデリング会社との品質向上、スケージュール調整
 * [Project Sonata](http://connect.sonata.world/)
   * 2017/1/20～2017/3/2
-  * HoloLens 向けMRアプリケーションの開発
+  * HoloLens 向けMRアプリケーション、インフラ基盤の開発
   * gRPCを用いたサーバーバックエンドとUnity (UWP)アプリケーション開発
 * [黒騎士と白の魔王VR](https://kuro-kishi.jp/vr/)
   * 2017/1/10～
-  * iOS/Android 向けVRアプリケーションの開発
+  * iOS/Android 向けVRアプリケーションの開発、サウンド開発、インフラ基盤
   * Google Cardboard SDK を用いたモバイルVRアプリケーションの作成
   * モデリング、アニメーション、デザイナーチームをリード
 * 未発表iOSアプリケーション
