@@ -139,6 +139,7 @@ IT専門Webサイトで複数執筆
   * モニタリング環境の構築(NewRelic/BigQuery/SumoLogic/Librato/Jupyter Notebook)
   * DBチューニング(MySQL/Aurora/Redis)と運用、移行経験
   * マルチCDN基盤の構築(Akamai/CloudFront/Fastly)
+  * Terraform化
 * モンスターハンターロアオブカード
   * 2014/2/19～2017/1/31
   * インフラ基盤の構築
@@ -169,12 +170,17 @@ IT専門Webサイトで複数執筆
   * サーバーサイドに FireStore と CloudFunctions を用いたサーバーレスAPI基盤を構築
   * Wowza を用いた動画のRTMP+HLSによるストリーミング配信環境の構築(GCE Container)
 
-#### サーバーレス開発
+##### コンテナ開発
+
+* Windows/C# でのコンテナ開発基盤の構築
+* CI/CD 基盤と開発環境のコンテナ化 (Amazon ECS)
+
+##### サーバーレス開発
 
 * AWS Lambda/AzureFunctions を用いたインフラ基盤のサーバーレス化
 * Firestoreを用いたiOS アプリケーションのサーバーレスバックエンド構築
 
-##### エンジニア採用
+#### エンジニア採用
 
 人事部と協力してエンジニア採用（中途）に関する業務を行なっている。
 
