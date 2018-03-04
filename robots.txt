@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /guitarrapc.github.io/
