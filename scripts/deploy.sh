@@ -18,7 +18,7 @@ git submodule update
 remote=`git ls-remote --heads 2> /dev/null | grep publish || true`
 
 if [ -n "$remote" ]; then
-  git clone -b master "${GIT_REPO}" public
+  git clone -b publish "${GIT_REPO}" public
   rm -rf public/*
 else
   git init public
