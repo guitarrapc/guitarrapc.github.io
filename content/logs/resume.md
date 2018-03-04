@@ -1,7 +1,7 @@
 ---
 title: "職務経歴書"
 date: 2018-03-04T20:19:34+09:00
-draft: true
+slug: resume
 ---
 
 職務経歴の概要です。
