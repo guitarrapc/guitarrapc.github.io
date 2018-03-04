@@ -1,7 +1,7 @@
 general:
   branches:
     only:
-     - /source
+     - source
 
 dependencies:
   pre:
