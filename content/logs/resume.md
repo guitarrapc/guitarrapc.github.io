@@ -66,13 +66,15 @@ slug: "resume"
 
 ### 著作
 
-* IT専門Webサイトで執筆
-  * > [PowerShell v5の新機能と、実戦で使ってほしい機能](https://www.buildinsider.net/enterprise/powershelldsc/03)
+IT専門Webサイトで複数執筆
+
+* > [PowerShell v5の新機能と、実戦で使ってほしい機能](https://www.buildinsider.net/enterprise/powershelldsc/03)
 * > [本番で使えるPowerShell DSCリソース作成入門](https://www.buildinsider.net/enterprise/powershelldsc/02)
 * > [AWS+Windows環境における大規模ソーシャルゲーム開発／運用の実際](http://gihyo.jp/admin/serial/01/grani/0003)
 * > [PowerShell DSCで導入された新しい構文キーワード](https://www.buildinsider.net/enterprise/powershelldsc/01)
 * > [PowerShell Desired State Configuration（DSC）とは（前編） (1/2)](http://www.atmarkit.co.jp/ait/articles/1405/22/news131.html)
-* 現在PowerShell専門書を単著で執筆中。2018年5月に発行予定。
+
+現在PowerShell専門書を単著で執筆中。2018年5月に発行予定。
 
 ### プログラミングスキル
 
