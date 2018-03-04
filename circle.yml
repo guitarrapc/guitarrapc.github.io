@@ -1,0 +1,14 @@
+dependencies:
+  pre:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.37/hugo_0.37_Linux-ARM64.deb
+  - sudo dpkg -i hugo_0.37_Linux_ARM64.deb
+
+test:
+  override:
+    - "true"
+
+deployment:
+  production:
+    branch: master
+    commands:
+    - ./scripts/deploy_production.sh
