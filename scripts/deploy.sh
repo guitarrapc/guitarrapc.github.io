@@ -15,7 +15,7 @@ GIT_REPO="git@github.com:${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.g
 git submodule init
 git submodule update
 
-remote=`git ls-remote --heads 2> /dev/null | grep master || true`
+remote=`git ls-remote --heads 2> /dev/null | grep publish || true`
 
 if [ -n "$remote" ]; then
   git clone -b master "${GIT_REPO}" public
@@ -23,7 +23,7 @@ if [ -n "$remote" ]; then
 else
   git init public
   cd public
-  git checkout -b master
+  git checkout -b publish
   git remote add origin "${GIT_REPO}"
   cd ..
 fi
@@ -34,4 +34,4 @@ git config --global user.name "${GIT_USER_NAME}"
 git config --global user.email "${GIT_USER_EMAIL}"
 git add --all
 git commit -m 'Update [ci skip]'
-git push -f origin master
+git push -f origin publish
