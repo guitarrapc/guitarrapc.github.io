@@ -1,10 +1,15 @@
 ---
 title: "Resume"
-date: 2018-03-20T20:19:34+09:00
-slug: resume_en
+date: 2018-03-17T20:21:03+09:00
+categories :
+  - "resume"
+slug: resume
+draft: false
 ---
 
-Please refer linkedIn for the detail
+Japanese resume : https://guitarrapc.github.io/logs/resume/
+
+Please refer linkedIn for the detail.
 
 ## IKIRU Yoshizaki
 
@@ -128,7 +133,7 @@ Please refer linkedIn for the detail
 * Infrastructure and aplication serverless backend with AWS Lambda/AzureFunctions.
 * iOS Application's Serverless backend with Firestore.
 
-### Micros-Fidelio Jaapn (Oracle) (2008/09〜2013/03)
+### Micros-Fidelio Japan (Current:Oracle) (2008/09〜2013/03)
 
 *Responsibility*
 
