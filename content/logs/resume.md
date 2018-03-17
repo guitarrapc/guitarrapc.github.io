@@ -1,10 +1,13 @@
 ---
 title: "職務経歴書"
 date: 2018-03-04T20:19:34+09:00
-slug: resume_jp
+categories :
+  - "resume"
+slug: resume
+draft: false
 ---
 
-If you need English : https://guitarrapc.github.io/logs/resume_en/
+If you need English : https://guitarrapc.github.io/logs/en/resume/
 
 職務経歴の概要です。詳細はLinkedInを参照してください。
 

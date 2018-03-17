@@ -1,7 +1,10 @@
 ---
 title: "Resume"
-date: 2018-03-20T20:19:34+09:00
-slug: resume_en
+date: 2018-03-17T20:21:03+09:00
+categories :
+  - "resume"
+slug: resume
+draft: false
 ---
 
 Please refer linkedIn for the detail
