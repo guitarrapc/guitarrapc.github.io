@@ -8,35 +8,49 @@ slug: resume
 
 ## 個人データ
 
-* 氏名 : 吉崎 生 (IKIRU, Yoshizaki)
+* Name : 吉崎 生 (IKIRU, Yoshizaki)
+* Email : resume@guitarrapc.com
 * ID : `guitarrapc`
+* Technical Blog : http://tech.guitarrapc.com
+* Twitter : https://twitter.com/guitarrapc_tech
 * LinedIn : https://www.linkedin.com/in/ikiru-yoshizaki/
+* Wantedly : https://www.wantedly.com/users/35070975
+* Github : https://github.com/guitarrapc (39 repositories)
+* Speakerdeck : https://speakerdeck.com/guitarrapc (10 slides)
 
 ## 職務経歴（概要）
 
 ### ソフトウェア開発
 
 * スマートフォン向けゲーム基盤開発
-    * 設計：5年
-    * プログラミング : 5年
-    * AWS, GCP, Azure
-    * C#, PowerShell, Ruby, Python, ShellScript, TypeScript, Node.js
-* Webアプリケーションの開発
-    * C#/ASP.NET MVC/ASP.NET Core MVC
-* VR/MR向けアプリケーション開発
-    * 企画 / 制作 : 1年
-    * プログラミング : 1年
-    * HTC VIVE, Oculus, Google Cardboard (iOS/Android), HoloLens
-    * C#/Unity
+* 設計：5年
+  * AWS : 5年
+  * GCP : 3年
+  * Azure : 4年
+  * プログラミング
+    * C# 5年
+    * PowerShell 7年
+    * ShellScript 10年
+    * Ruby, Python, TypeScript, Node.js, Swift, Go
+* Webアプリケーション開発
+  * C#/ASP.NET MVC/ASP.NET Core MVC
+  * Python/Flask
+* VR/MR向けUnityアプリケーション開発
+  * 企画 / 制作 : 1年
+  * プログラミング : 1年
+  * HTC VIVE, Oculus, Google Cardboard (iOS/Android), HoloLens
+  * C#/Unity
 * iOS向けアプリケーション開発
-    * 企画 / 制作 : 3カ月
-    * プログラミング : 6カ月
-    * Swift, TypeScript, Node.js
+  * 企画 / 制作 : 3カ月
+  * プログラミング : 6カ月
+  * Swift, TypeScript, Node.js
 * その他のソフトウェア開発経験
-    * CLIツール (Windows, C#, PowerShell / Linux, Ruby, Python, ShellScript)
-    * Windowsアプリケーション (Win32API, C#/.NET Framework)
+  * CLIツール (Windows, C#, PowerShell / Linux, Ruby, Python, ShellScript)
+  * Windowsアプリケーション (Win32API, C#/.NET Framework)
+  * Git (GitHub)
+  * CI (Jenkins/CircleCI/TravisCI/VSTS/AppVeyor/AppCenter)
 * C#, PowerShell, Swift, VB.NET, Ruby, Python, Perl あわせて10年以上
- 
+
 ### 採用 / 教育
 
 #### エンジニアの採用
@@ -50,6 +64,12 @@ slug: resume
 #### 非エンジニアの教育・育成
 
 * 導入コンサルタントとして、研修プログラムの作成、研修を計画、開催
+
+## リーディング
+
+* 新規プロジェクトのテクニカルリード、アーキテクトリード、プロジェクトマネージメント2年
+* 既存アーキテクチャの刷新(ASP.NET MVC -> ASP.NET Core MVC)へのテクニカルリード、アーキテクト、プロジェクトマネージメント
+* アーキテクチャ変更のアーキテクトリード、テクニカルリード 7年
 
 ### 業務外活動
 
@@ -76,6 +96,14 @@ IT専門Webサイトで複数執筆
 
 現在PowerShell専門書を単著で執筆中。2018年5月に発行予定。
 
+#### Githubにおける活動
+
+* 複数のC#、PowerShell、Serverless実装を公開
+* Github のPowerShellランキングにおいて、世界 114/13381, 日本 1/95 (15 Repositories, 222stars)
+* Github C#ランキングにおいて、世界 3135/223884, 日本 49/1584 (8 Repositories, 92stars)
+
+> http://git-awards.com/users/search?login=guitarrapc
+
 ### プログラミングスキル
 
 #### C#
@@ -83,6 +111,7 @@ IT専門Webサイトで複数執筆
 * C# 4.0（2013年）から日常的に利用。非同期操作、排他制御を用いたプログラミングができる。
 * ASP.NET MVC, ASP.NET Core MVC 2.0 は5系の実務経験あり。
 * .NETCore は 1.0/2.0系の実務経験あり。
+* UnityによるVR/MRアプリケーションの実務開発、リリース経験あり(年4本リリース)
 * アプリケーション作成、インフラツールの構築で最も利用している。
 * AWS/GCP/Azure 環境をSDK用いて自動構築経験あり
 * SignalRを使ったリアルタイム通信チャットの基盤に利用
@@ -99,7 +128,7 @@ IT専門Webサイトで複数執筆
 
 #### Swift
 
-* 4で2017年10月から経験あり。
+* Swift4で2017年10月から経験あり。
 * iPhone向けアプリケーション開発のための基盤構築、アプリケーション開発。
 * FireStore を用いたアプリケーション実装経験あり。
 
@@ -123,12 +152,27 @@ IT専門Webサイトで複数執筆
 * インプリメンテーションコンサルタント時代に2年経験。
 * データベースからのデータ読み取りとcsvへのデータ整形が行える。
 
+#### Go
+
+* GAE上のサーバーサイド利用のため現在勉強中(2018/3～)
+
 ## 職務経歴 (現職)
 
 ### 株式会社グラニ (2013/04〜)
 
-
 #### プロダクト開発
+
+*Responsibility*
+
+* インフラエンジニアとして参入、シニアエンジニアとしてVR/インフラのエンジニアリングをリード
+* ゲームタイトルのアーキテクト、インフラ環境の構築と運用落とし込み、アプリケーションとミドルウェアの組みこみ
+* 現在のゲーム負荷に耐え、ユーザー増加に対するアーキテクチャ変更の実施
+* 新規技術の選定と議論、選択に応じたプランの提案、構築、実装、運用導入
+* DB/Redisのパフォーマンスチューニングとクエリチューニング、オンラインマイグレーション
+* CDN配信のアーキテクチャ変更とデプロイ改善
+* gRPCやSignalRを使ったリアルタイム通信環境の構築と実装
+
+*Accomplishment*
 
 * [神獄のヴァルハラゲート](http://jp.apps.gree.net/ja/58748/?ent_code=PCSEGG00)
   * 2013/4/1～
@@ -194,19 +238,24 @@ IT専門Webサイトで複数執筆
 
 ## 職務経歴 (前職以前)
 
-### Micros-Fidelio 株式会社 (2008/09〜2013/03)
+### Micros-Fidelio Jaapn株式会社(現Oracle) (2008/09〜2013/03)
+
+*Responsibility*
 
 * ホテル・レストラン向けアプリケーションのコンサルタント
-  * 顧客業務の分析とオペレーションに合わせたアプリケーションの構築、導入トレーニング
-    * Sybase Central DBの運用経験
-    * Perl を用いたプラグインアプリケーション、バッチアプリケーション開発
-    * PowerShell を用いた物理サーバーの自動構築、バッチアプリケーション開発
-    * VB.NET を用いたDB操作アプリケーション開発とWindows CE環境構築
-  * 運用サポート
+* 顧客業務の分析とオペレーションに合わせたアプリケーションの構築、導入トレーニング
+* 運用サポート
 
-### ソラーレホテルズアンドリゾーツ(2006/10〜2008/8)
+*Accomplishment*
 
-* ホテル宿泊予約担当として、客室の予約、団体予約の管理、企画を担当。
+* Sybase Central DB, SQL Server, Oracle, MySQL の運用経験
+* Perl を用いたプラグインアプリケーション、バッチアプリケーション開発
+* PowerShell を用いた物理サーバーの自動構築、バッチアプリケーション開発
+* VB.NET を用いたDB操作アプリケーション開発とWindows CE環境構築
+
+### Solare Hotels & Resorts株式会社 (2006/10〜2008/8)
+
+* ホテル宿泊予約責任者として、客室予約、団体予約の管理、企画を担当。
 * 2008/12よりスーパーバイザー
  * 計8名からなるセクションのマネジメント
 
