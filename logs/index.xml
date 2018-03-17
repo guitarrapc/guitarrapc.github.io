@@ -6,18 +6,28 @@
     <description>Recent content in Logs on guitarrapc on github</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Mar 2018 20:19:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Mar 2018 20:21:03 +0900</lastBuildDate>
     
 	<atom:link href="https://guitarrapc.github.io/logs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Resume</title>
+      <link>https://guitarrapc.github.io/logs/en/resume/</link>
+      <pubDate>Sat, 17 Mar 2018 20:21:03 +0900</pubDate>
+      
+      <guid>https://guitarrapc.github.io/logs/en/resume/</guid>
+      <description>Please refer linkedIn for the detail
+IKIRU Yoshizaki  Email : resume@guitarrapc.com ID : guitarrapc Technical Blog : http://tech.guitarrapc.com Twitter : https://twitter.com/guitarrapc_tech LinedIn : https://www.linkedin.com/in/ikiru-yoshizaki/ Wantedly : https://www.wantedly.com/users/35070975 Github : https://github.com/guitarrapc (39 repositories) Speakerdeck : https://speakerdeck.com/guitarrapc (10 slides)  Qualifications  10 years of C# Game Infrastructure development  C# : 5 years PowerShell : 7 years ShellScript : 10 years Ruby, Python, TypeScript, Node.js, Swift, Go  5 years of Game Infrastructure Architect  AWS : 5 years GCP : 3 years Azure : 4 years  Web Application Development  C#: ASP.</description>
+    </item>
+    
+    <item>
       <title>職務経歴書</title>
-      <link>https://guitarrapc.github.io/logs/resume_jp/</link>
+      <link>https://guitarrapc.github.io/logs/resume/</link>
       <pubDate>Sun, 04 Mar 2018 20:19:34 +0900</pubDate>
       
-      <guid>https://guitarrapc.github.io/logs/resume_jp/</guid>
-      <description>If you need English : https://guitarrapc.github.io/logs/resume_en/ 職務経歴の概要です。詳細はLinkedInを参照してください。 個人データ Name : 吉崎 生 (IKIRU, Yoshizaki) Email : resume@guitarrapc.com ID : guitarrapc Technical Blog : http://tech.guitarrapc.com Twitter : https://twitter.com/guitarrapc_tech LinedIn : https://www.linkedin.com/in/ikiru-yoshizaki/ Wantedly : https://www.wantedly.com/users/35070975 Github :</description>
+      <guid>https://guitarrapc.github.io/logs/resume/</guid>
+      <description>If you need English : https://guitarrapc.github.io/logs/en/resume/ 職務経歴の概要です。詳細はLinkedInを参照してください。 個人データ Name : 吉崎 生 (IKIRU, Yoshizaki) Email : resume@guitarrapc.com ID : guitarrapc Technical Blog : http://tech.guitarrapc.com Twitter : https://twitter.com/guitarrapc_tech LinedIn : https://www.linkedin.com/in/ikiru-yoshizaki/ Wantedly : https://www.wantedly.com/users/35070975 Github :</description>
     </item>
     
   </channel>
