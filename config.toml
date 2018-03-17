@@ -1,4 +1,4 @@
-baseURL = "http://guitarrapc.github.io/"
+baseURL = "https://guitarrapc.github.io/"
 languageCode = "ja"
 title = "guitarrapc on github"
 theme = "hyde"
