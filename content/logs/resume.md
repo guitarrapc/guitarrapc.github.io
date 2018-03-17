@@ -33,8 +33,8 @@ slug: resume
     * ShellScript 10年
     * Ruby, Python, TypeScript, Node.js, Swift, Go
 * Webアプリケーション開発
-  * C#/ASP.NET MVC/ASP.NET Core MVC
-  * Python/Flask
+  * C#: ASP.NET MVC, SignalR, Owin, ASP.NET Core MVC
+  * Python: Flask
 * VR/MR向けUnityアプリケーション開発
   * 企画 / 制作 : 1年
   * プログラミング : 1年
@@ -65,20 +65,22 @@ slug: resume
 
 * 導入コンサルタントとして、研修プログラムの作成、研修を計画、開催
 
-## リーディング
+### リーディング
 
 * 新規プロジェクトのテクニカルリード、アーキテクトリード、プロジェクトマネージメント2年
 * 既存アーキテクチャの刷新(ASP.NET MVC -> ASP.NET Core MVC)へのテクニカルリード、アーキテクト、プロジェクトマネージメント
 * アーキテクチャ変更のアーキテクトリード、テクニカルリード 7年
+* 非エンジニアのリーディング8年、トレーニング7年
 
 ### 業務外活動
 
 #### プレゼンテーション
 
-2014/4～ Microsoft MVP を連続受賞している。(Microsoft MVC for Cloud and Datacenter Management)
+2014/4～ Microsoft MVP を連続受賞している。(Microsoft MVP for Cloud and Datacenter Management)
 
-社内外の勉強会、カンファレンスなどにおいてプレゼンテーションを行っている。
+社内外の勉強会、カンファレンスなどにおいて積極的にプレゼンテーションを行っている。
 
+* > [黒騎士と白の魔王で見るFastly によるキャッシングの活用と実践](https://speakerdeck.com/guitarrapc/hei-qi-shi-tobai-falsemo-wang-dejian-rufastly-niyorukiyatusingufalsehuo-yong-toshi-jian)
 * > [Simple Windows Architecture on AWS@Amazon Windows 自動化Round Table 13/May/2016](https://speakerdeck.com/guitarrapc/simple-windows-architecture-on-aws)
 * > [Nice to meet you Aurora!!@Amazon Aurora 東京ローンチイベント 10/Nov/2015](https://speakerdeck.com/guitarrapc/nice-to-meet-you-aurora)
 * > [PowerShell DSC による クラウド時代の IaaS 環境構築の自動化の実例@Microsoft de:code 2014](https://channel9.msdn.com/Events/de-code/2014/SN-007)
@@ -183,7 +185,7 @@ IT専門Webサイトで複数執筆
   * モニタリング環境の構築(NewRelic/BigQuery/SumoLogic/Librato/Jupyter Notebook)
   * DBチューニング(MySQL/Aurora/Redis)と運用、移行経験
   * マルチCDN基盤の構築(Akamai/CloudFront/Fastly)
-  * Terraform化
+  * Terraformの導入、構築
 * モンスターハンターロアオブカード
   * 2014/2/19～2017/1/31
   * インフラ基盤の構築
@@ -224,17 +226,12 @@ IT専門Webサイトで複数執筆
 * AWS Lambda/AzureFunctions を用いたインフラ基盤のサーバーレス化
 * Firestoreを用いたiOS アプリケーションのサーバーレスバックエンド構築
 
-#### エンジニア採用
 
-人事部と協力してエンジニア採用（中途）に関する業務を行なっている。
+##### エンジニア採用・育成・環境整備
 
-* 書類審査・面接
-
-##### エンジニア育成・環境整備
-
-* コンテナ勉強会
-  * 社内のエンジニアが週に1度集まってコンテナ/.NETCoreのプレゼンテーションを行う会の運営
-* 社内ツールの選定・導入・運用
+* 人事部と協力してエンジニア採用（中途）に関する書類審査、面接業務を行なっている。
+* 社内勉強会の実施、コンテナ会(社内のエンジニアが週に1度集まってコンテナ/.NETCoreのプレゼンテーションを行う会の運営)
+* 社内AD環境の構築運用、社内ツールの選定・導入・交渉、運用
 
 ## 職務経歴 (前職以前)
 
@@ -256,7 +253,7 @@ IT専門Webサイトで複数執筆
 ### Solare Hotels & Resorts株式会社 (2006/10〜2008/8)
 
 * ホテル宿泊予約責任者として、客室予約、団体予約の管理、企画を担当。
-* 2008/12よりスーパーバイザー
+* 2008/12よりスーパーバイザーとして予約責任者
  * 計8名からなるセクションのマネジメント
 
 ### マンテンホテル株式会社 (2004/04〜2006/9)
