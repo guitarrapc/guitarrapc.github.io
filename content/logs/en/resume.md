@@ -7,8 +7,9 @@ slug: resume
 draft: false
 ---
 
-Please refer linkedIn for the detail.
 Japanese resume : https://guitarrapc.github.io/logs/resume/
+
+Please refer linkedIn for the detail.
 
 ## IKIRU Yoshizaki
 
