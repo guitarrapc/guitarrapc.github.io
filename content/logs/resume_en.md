@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2018-03-020T20:19:34+09:00
+date: 2018-03-20T20:19:34+09:00
 slug: resume_en
 ---
 
@@ -146,7 +146,7 @@ Please refer linkedIn for the detail
 
 * Reservation supervisor.
 
-### マンテンホテル株式会社 (2004/04〜2006/9)
+### Manten Hotel (2004/04〜2006/9)
 
 * 1 year experience of Restaurant staff.
 * Convert ti reception staff.
