@@ -240,7 +240,7 @@ IT専門Webサイトで複数執筆
 
 ## 職務経歴 (前職以前)
 
-### Micros-Fidelio Jaapn株式会社(現Oracle) (2008/09〜2013/03)
+### Micros-Fidelio Japan株式会社(現Oracle) (2008/09〜2013/03)
 
 *Responsibility*
 
