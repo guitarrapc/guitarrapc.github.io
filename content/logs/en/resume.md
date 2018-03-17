@@ -7,7 +7,8 @@ slug: resume
 draft: false
 ---
 
-Please refer linkedIn for the detail
+Please refer linkedIn for the detail.
+Japanese resume : https://guitarrapc.github.io/logs/resume/
 
 ## IKIRU Yoshizaki
 
@@ -131,7 +132,7 @@ Please refer linkedIn for the detail
 * Infrastructure and aplication serverless backend with AWS Lambda/AzureFunctions.
 * iOS Application's Serverless backend with Firestore.
 
-### Micros-Fidelio Jaapn (Oracle) (2008/09〜2013/03)
+### Micros-Fidelio Japan (Current:Oracle) (2008/09〜2013/03)
 
 *Responsibility*
 
