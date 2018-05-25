@@ -20,6 +20,7 @@ Please refer linkedIn for the detail.
 * LinedIn : https://www.linkedin.com/in/ikiru-yoshizaki/
 * Wantedly : https://www.wantedly.com/users/35070975
 * Github : https://github.com/guitarrapc (39 repositories)
+* Github resume : https://resume.github.io/?guitarrapc
 * Speakerdeck : https://speakerdeck.com/guitarrapc (10 slides)
 
 ## Qualifications
