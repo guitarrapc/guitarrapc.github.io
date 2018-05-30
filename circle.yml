@@ -1,16 +1,11 @@
 version: 2
 jobs :
-  build:
-    machine: true
-    working_directory: ~/guitarrapc.github.io
-    steps:
-      - checkout
-
   deploy:
     docker:
       - image: jnyo/docker-hugo-firebase:latest
     working_directory: ~/project
     steps:
+      - checkout
       - run:
           branch: dev
           command: ./scripts/deploy.sh
@@ -19,10 +14,7 @@ workflows:
    version: 2
    build_and_deploy:
       jobs:
-        - build
         - deploy:
-            requires:
-              - build
             filters:
               branches:
                 only: dev
