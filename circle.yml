@@ -1,9 +1,8 @@
 version: 2
 jobs :
   build:
-    docker:
-      - image: jnyo/docker-hugo-firebase:latest
-    working_directory: ~/project
+    machine: true
+    working_directory: ~/guitarrapc.github.io
     steps:
       - checkout
 
