@@ -7,14 +7,14 @@ jobs :
     steps:
       - checkout
 
-deploy:
-  docker:
-    - image: jnyo/docker-hugo-firebase:latest
-  working_directory: ~/project
-  steps:
-    - run:
-        branch: dev
-        command: ./scripts/deploy.sh
+  deploy:
+    docker:
+      - image: jnyo/docker-hugo-firebase:latest
+    working_directory: ~/project
+    steps:
+      - run:
+          branch: dev
+          command: ./scripts/deploy.sh
 
 workflows:
    version: 2
