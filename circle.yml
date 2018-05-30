@@ -7,8 +7,8 @@ jobs :
     steps:
       - checkout
       - run:
-        name: "Run Hugo"
-        command: hugo
+          name: Run Hugo
+          command: hugo
       - deploy:
           branch: dev
           command: ./scripts/deploy.sh
