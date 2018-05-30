@@ -1,19 +1,34 @@
-general:
-  branches:
-    only:
-     - source
+version: 2
+jobs :
+  build:
+    docker:
+      - image: jnyo/docker-hugo-firebase:latest
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run:
+        name: "Run Hugo"
+        command: hugo
+      - deploy:
+          branch: dev
+          command: ./scripts/deploy.sh
 
-dependencies:
-  pre:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.37/hugo_0.37_Linux-64bit.deb
-  - sudo dpkg -i hugo_0.37_Linux-64bit.deb
+# general:
+#   branches:
+#     only:
+#      - source
 
-test:
-  override:
-    - "true"
+# dependencies:
+#   pre:
+#   - wget https://github.com/gohugoio/hugo/releases/download/v0.37/hugo_0.37_Linux-64bit.deb
+#   - sudo dpkg -i hugo_0.37_Linux-64bit.deb
 
-deployment:
-  production:
-    branch: source
-    commands:
-    - ./scripts/deploy.sh
+# test:
+#   override:
+#     - "true"
+
+# deployment:
+#   production:
+#     branch: source
+#     commands:
+#     - ./scripts/deploy.sh
