@@ -6,9 +6,6 @@ jobs :
     working_directory: ~/project
     steps:
       - checkout
-      - run:
-          name: Run Hugo
-          command: hugo
       - deploy:
           branch: dev
           command: ./scripts/deploy.sh
