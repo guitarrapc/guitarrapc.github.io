@@ -1,14 +1,30 @@
 version: 2
 jobs :
   build:
-    docker:
-      - image: jnyo/docker-hugo-firebase:latest
-    working_directory: ~/project
     steps:
       - checkout
-      - deploy:
-          branch: dev
-          command: ./scripts/deploy.sh
+
+deploy:
+  docker:
+    - image: jnyo/docker-hugo-firebase:latest
+  working_directory: ~/project
+  steps:
+    - run:
+        branch: dev
+        command: ./scripts/deploy.sh
+
+workflows:
+   version: 2
+   build_and_deploy:
+      jobs:
+        - build:
+        - deploy:
+            requires:
+              - build:
+            filters:
+              branches:
+                only: dev
+
 
 # general:
 #   branches:
