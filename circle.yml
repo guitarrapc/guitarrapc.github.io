@@ -17,7 +17,7 @@ workflows:
         - deploy:
             filters:
               branches:
-                only: dev
+                only: source
 
 
 # general:

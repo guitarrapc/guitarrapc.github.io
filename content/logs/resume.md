@@ -7,7 +7,7 @@ slug: resume
 draft: false
 ---
 
-If you need English : https://guitarrapc.github.io/logs/en/resume/
+English resume : https://guitarrapc.github.io/logs/en/resume/
 
 職務経歴の概要です。詳細はLinkedInを参照してください。
 
