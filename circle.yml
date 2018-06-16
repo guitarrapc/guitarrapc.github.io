@@ -7,7 +7,6 @@ jobs :
     steps:
       - checkout
       - run:
-          branch: dev
           command: ./scripts/deploy.sh
 
 workflows:
