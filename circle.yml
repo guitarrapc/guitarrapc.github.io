@@ -18,7 +18,7 @@ workflows:
               branches:
                 only: source
 
-
+# circle ci v1 configuration - deprecated.
 # general:
 #   branches:
 #     only:
