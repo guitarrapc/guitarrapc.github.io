@@ -38,7 +38,7 @@ English resume : https://guitarrapc.github.io/logs/en/resume/
     * PowerShell 8年
     * ShellScript 11年
     * Golang 1年
-    * Ruby, Python, TypeScript, Node.js, Swift, Vue.js
+    * Ruby, Python, PHP, TypeScript, Node.js, Swift, Vue.js
 * Webアプリケーション開発
   * C#: ASP.NET MVC, SignalR, Owin, ASP.NET Core MVC, ASP.NET Core API
   * Python: Flask
@@ -140,9 +140,17 @@ IT専門Webサイトで複数執筆
 * PowerShell クラスを利用した型、スコープを厳密に扱ったプログラミングができる。
 * 社内イントラネット基盤のため、Windows ActiveDirectory 群の自動構築経験あり。
 * Office365とActiveDirectoryの自動連行構築経験あり。
-* AWS/GCP/Azure 環境をSDK用いて自動構築経験あり
+* AWS/GCP/Azure 環境をSDK用いて自動構築経験あり。
 
 #### Terraform
+
+* 0.9系から利用、0.12.x へのアップグレード経験複数あり。
+* Module、Data、Workspace を用いたDRYな構造を組め、構造の変更を行える。
+* 素terraform + レイヤー構造によるシンプルな構造を組める。
+* Atlantis を用いた GitHub PR を通したterraforn のatomicな適用の導入、運用経験あり。
+* AWS環境(Multi Organization)のTerraform化、Terraform での構築、運用経験あり。
+* Azure環境(Multi Subscription)のTerraform化、Terraform での構築、運用経験あり。
+* GCP環境(Multi Project)のTerraform化、Terraform での構築、運用経験あり。
 
 #### Golang
 
@@ -170,6 +178,7 @@ IT専門Webサイトで複数執筆
 
 * Jupyter NoteBook を用いたデータの可視化に利用。
 * データ集合を扱いグラフ表現ができる。
+* Djangoで構築されたWebサーバーのコードリード、開発修正を行える
 
 #### Perl
 
@@ -191,7 +200,7 @@ IT専門Webサイトで複数執筆
 #### 業務委託(SES契約)で複数社との契約
 
 * ディープラーニング企業のクラウド環境開発基盤のアーキテクト/構築、技術支援、社内IT支援の実施、IaC化の実施
-* MR企業のHoloLensを用いたMRアプリケーション開発、HoloLens/Unity開発基盤の構築、Unityアーキテクチャ構築、クラウド開発基盤の技術支援、開発パイプラインの構築、IaC化の実施
+* Mixed Reality企業のHoloLensを用いたMRアプリケーション開発、HoloLens/Unity開発基盤の構築、Unityアーキテクチャ構築、クラウド開発基盤の技術支援、開発パイプラインの構築、IaC化の実施、スクラム開発
 * 仮想通貨企業におけるクラウド環境開発基盤のアーキテクト/構築、技術支援、基盤ツール開発
 * ゲーム企業におけるインフラ設計と開発、アプリケーションとの連携、ミドルウェア開発と組み込み、技術支援、開発パイプライン改善、コンテナ化
 
