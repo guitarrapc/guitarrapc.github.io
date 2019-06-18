@@ -18,24 +18,3 @@ workflows:
             filters:
               branches:
                 only: source
-
-# circle ci v1 configuration - deprecated.
-# general:
-#   branches:
-#     only:
-#      - source
-
-# dependencies:
-#   pre:
-#   - wget https://github.com/gohugoio/hugo/releases/download/v0.37/hugo_0.37_Linux-64bit.deb
-#   - sudo dpkg -i hugo_0.37_Linux-64bit.deb
-
-# test:
-#   override:
-#     - "true"
-
-# deployment:
-#   production:
-#     branch: source
-#     commands:
-#     - ./scripts/deploy.sh
