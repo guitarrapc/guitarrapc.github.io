@@ -91,25 +91,25 @@ English resume : https://guitarrapc.github.io/logs/en/resume/
 
 社内外の勉強会、カンファレンスなどにおいて積極的にプレゼンテーションを行っている。
 
-* > [黒騎士と白の魔王で見るFastly によるキャッシングの活用と実践](https://speakerdeck.com/guitarrapc/hei-qi-shi-tobai-falsemo-wang-dejian-rufastly-niyorukiyatusingufalsehuo-yong-toshi-jian)
-* > [Simple Windows Architecture on AWS@Amazon Windows 自動化Round Table 13/May/2016](https://speakerdeck.com/guitarrapc/simple-windows-architecture-on-aws)
-* > [Nice to meet you Aurora!!@Amazon Aurora 東京ローンチイベント 10/Nov/2015](https://speakerdeck.com/guitarrapc/nice-to-meet-you-aurora)
-* > [PowerShell DSC による クラウド時代の IaaS 環境構築の自動化の実例@Microsoft de:code 2014](https://channel9.msdn.com/Events/de-code/2014/SN-007)
-* > [他Speaker Deck](https://speakerdeck.com/guitarrapc)
+* [黒騎士と白の魔王で見るFastly によるキャッシングの活用と実践](https://speakerdeck.com/guitarrapc/hei-qi-shi-tobai-falsemo-wang-dejian-rufastly-niyorukiyatusingufalsehuo-yong-toshi-jian)
+* [Simple Windows Architecture on AWS@Amazon Windows 自動化Round Table 13/May/2016](https://speakerdeck.com/guitarrapc/simple-windows-architecture-on-aws)
+* [Nice to meet you Aurora!!@Amazon Aurora 東京ローンチイベント 10/Nov/2015](https://speakerdeck.com/guitarrapc/nice-to-meet-you-aurora)
+* [PowerShell DSC による クラウド時代の IaaS 環境構築の自動化の実例@Microsoft de:code 2014](https://channel9.msdn.com/Events/de-code/2014/SN-007)
+* [他Speaker Deck](https://speakerdeck.com/guitarrapc)
 
 ### 著作
 
 IT専門Webサイトで複数執筆
 
-* > [PowerShell v5の新機能と、実戦で使ってほしい機能](https://www.buildinsider.net/enterprise/powershelldsc/03)
-* > [本番で使えるPowerShell DSCリソース作成入門](https://www.buildinsider.net/enterprise/powershelldsc/02)
-* > [AWS+Windows環境における大規模ソーシャルゲーム開発／運用の実際](http://gihyo.jp/admin/serial/01/grani/0003)
-* > [PowerShell DSCで導入された新しい構文キーワード](https://www.buildinsider.net/enterprise/powershelldsc/01)
-* > [PowerShell Desired State Configuration（DSC）とは（前編） (1/2)](http://www.atmarkit.co.jp/ait/articles/1405/22/news131.html)
+* [PowerShell v5の新機能と、実戦で使ってほしい機能](https://www.buildinsider.net/enterprise/powershelldsc/03)
+* [本番で使えるPowerShell DSCリソース作成入門](https://www.buildinsider.net/enterprise/powershelldsc/02)
+* [AWS+Windows環境における大規模ソーシャルゲーム開発／運用の実際](http://gihyo.jp/admin/serial/01/grani/0003)
+* [PowerShell DSCで導入された新しい構文キーワード](https://www.buildinsider.net/enterprise/powershelldsc/01)
+* [PowerShell Desired State Configuration（DSC）とは（前編） (1/2)](http://www.atmarkit.co.jp/ait/articles/1405/22/news131.html)
 
 マイナビ出版より書籍の出版
 
-* > [PowerShell 実践ガイドブック(2018/5)](https://book.mynavi.jp/ec/products/detail/id=90597)
+* [PowerShell 実践ガイドブック(2018/5)](https://book.mynavi.jp/ec/products/detail/id=90597)
 
 #### Githubにおける活動
 
@@ -121,7 +121,7 @@ IT専門Webサイトで複数執筆
 
 ### プログラミングスキル
 
-#### C#
+#### CSharp
 
 * C# 4.0（2013年）から日常的に利用。非同期操作、排他制御を用いたプログラミングができる。
 * ASP.NET MVC 5, Owin, ASP.NET Core MVC/API 2.2 の実務経験あり。
@@ -141,16 +141,6 @@ IT専門Webサイトで複数執筆
 * 社内イントラネット基盤のため、Windows ActiveDirectory 群の自動構築経験あり。
 * Office365とActiveDirectoryの自動連行構築経験あり。
 * AWS/GCP/Azure 環境をSDK用いて自動構築経験あり。
-
-#### Terraform
-
-* 0.9系から利用、0.12.x へのアップグレード経験複数あり。
-* Module、Data、Workspace を用いたDRYな構造を組め、構造の変更を行える。
-* 素terraform + レイヤー構造によるシンプルな構造を組める。
-* Atlantis を用いた GitHub PR を通したterraforn のatomicな適用の導入、運用経験あり。
-* AWS環境(Multi Organization)のTerraform化、Terraform での構築、運用経験あり。
-* Azure環境(Multi Subscription)のTerraform化、Terraform での構築、運用経験あり。
-* GCP環境(Multi Project)のTerraform化、Terraform での構築、運用経験あり。
 
 #### Golang
 
@@ -188,6 +178,16 @@ IT専門Webサイトで複数執筆
 #### Vue.js
 
 * SPAでのバックエンド(C#/Golang)のフロントとして開発中。
+
+#### Terraform
+
+* 0.9系から利用、0.12.x へのアップグレード経験複数あり。
+* Module、Data、Workspace を用いたDRYな構造を組め、構造の変更を行える。
+* 素terraform + レイヤー構造によるシンプルな構造を組める。
+* Atlantis を用いた GitHub PR を通したterraforn のatomicな適用の導入、運用経験あり。
+* AWS環境(Multi Organization)のTerraform化、Terraform での構築、運用経験あり。
+* Azure環境(Multi Subscription)のTerraform化、Terraform での構築、運用経験あり。
+* GCP環境(Multi Project)のTerraform化、Terraform での構築、運用経験あり。
 
 ## 職務経歴 (現職)
 
