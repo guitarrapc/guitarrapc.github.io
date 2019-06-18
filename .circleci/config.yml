@@ -1,21 +1,19 @@
-version: 2.1
-executors:
-  default:
+version: 2
+jobs :
+  deploy:
     docker:
       - image: jnyo/docker-hugo-firebase:latest
-jobs :
-  gitpush:
-    executor: default
     working_directory: ~/project
     steps:
       - checkout
-      - run: ./scripts/deploy.sh
+      - run:
+          command: ./scripts/deploy.sh
 
 workflows:
    version: 2
-   push:
+   build_and_deploy:
       jobs:
-        - gitpush:
+        - deploy:
             filters:
               branches:
                 only: source
