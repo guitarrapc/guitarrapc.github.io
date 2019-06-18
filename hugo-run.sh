@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo server -D -W
+hugo server -D -w
