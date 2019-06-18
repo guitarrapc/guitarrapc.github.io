@@ -1,6 +1,6 @@
 ---
 title: "職務経歴書"
-date: 2018-03-04T20:19:34+09:00
+date: 2019-06-19T04:19:34+09:00
 categories :
   - "resume"
 slug: resume
@@ -29,32 +29,35 @@ English resume : https://guitarrapc.github.io/logs/en/resume/
 ### ソフトウェア開発
 
 * スマートフォン向けゲーム基盤開発
-* 設計：5年
-  * AWS : 5年
-  * GCP : 3年
-  * Azure : 4年
+* 設計：6年
+  * AWS : 6年
+  * GCP : 4年
+  * Azure: 5年
   * プログラミング
-    * C# 5年
-    * PowerShell 7年
-    * ShellScript 10年
-    * Ruby, Python, TypeScript, Node.js, Swift, Go
+    * C# 6年
+    * PowerShell 8年
+    * ShellScript 11年
+    * Golang 1年
+    * Ruby, Python, TypeScript, Node.js, Swift, Vue.js
 * Webアプリケーション開発
-  * C#: ASP.NET MVC, SignalR, Owin, ASP.NET Core MVC
+  * C#: ASP.NET MVC, SignalR, Owin, ASP.NET Core MVC, ASP.NET Core API
   * Python: Flask
+  * Golang: Gin
 * VR/MR向けUnityアプリケーション開発
   * 企画 / 制作 : 1年
-  * プログラミング : 1年
+  * プログラミング : 2年
   * HTC VIVE, Oculus, Google Cardboard (iOS/Android), HoloLens
   * C#/Unity
 * iOS向けアプリケーション開発
-  * 企画 / 制作 : 3カ月
-  * プログラミング : 6カ月
+  * 企画 / 制作 : 半年
+  * プログラミング : 1年
   * Swift, TypeScript, Node.js
 * その他のソフトウェア開発経験
-  * CLIツール (Windows, C#, PowerShell / Linux, Ruby, Python, ShellScript)
-  * Windowsアプリケーション (Win32API, C#/.NET Framework)
-  * Git (GitHub)
-  * CI (Jenkins/CircleCI/TravisCI/VSTS/AppVeyor/AppCenter)
+  * コンテナ (Docker), ECS
+  * CLIツール (Windows, C#, PowerShell / Linux, Golang, Ruby, Python, ShellScript)
+  * Windowsアプリケーション (Win32API, C#/.NET Framework, Golang)
+  * Git (GitHub, GitLab, AzureDevOps)
+  * CI (Jenkins/CircleCI/TravisCI/AzureDevOps/AppVeyor/AppCenter)
 * C#, PowerShell, Swift, VB.NET, Ruby, Python, Perl あわせて10年以上
 
 ### 採用 / 教育
@@ -66,6 +69,7 @@ English resume : https://guitarrapc.github.io/logs/en/resume/
 #### エンジニアの教育・育成
 
 * 中途エンジニアの研修プログラムを作成、社内勉強会を開催
+* 社外におけるSESでのTerraform導入と展開
 
 #### 非エンジニアの教育・育成
 
@@ -73,10 +77,11 @@ English resume : https://guitarrapc.github.io/logs/en/resume/
 
 ### リーディング
 
-* 新規プロジェクトのテクニカルリード、アーキテクトリード、プロジェクトマネージメント2年
+* 新規プロジェクトのテクニカルリード、アーキテクトリード、プロジェクトマネージメント3年
 * 既存アーキテクチャの刷新(ASP.NET MVC -> ASP.NET Core MVC)へのテクニカルリード、アーキテクト、プロジェクトマネージメント
 * アーキテクチャ変更のアーキテクトリード、テクニカルリード 7年
 * 非エンジニアのリーディング8年、トレーニング7年
+* 自社におけるテクニカルチョイス、開発リード 1年
 
 ### 業務外活動
 
@@ -102,13 +107,15 @@ IT専門Webサイトで複数執筆
 * > [PowerShell DSCで導入された新しい構文キーワード](https://www.buildinsider.net/enterprise/powershelldsc/01)
 * > [PowerShell Desired State Configuration（DSC）とは（前編） (1/2)](http://www.atmarkit.co.jp/ait/articles/1405/22/news131.html)
 
-現在PowerShell専門書を単著で執筆中。2018年5月に発行予定。
+マイナビ出版より書籍の出版
+
+* > [PowerShell 実践ガイドブック(2018/5)](https://book.mynavi.jp/ec/products/detail/id=90597)
 
 #### Githubにおける活動
 
-* 複数のC#、PowerShell、Serverless実装を公開
-* Github のPowerShellランキングにおいて、世界 114/13381, 日本 1/95 (15 Repositories, 222stars)
-* Github C#ランキングにおいて、世界 3135/223884, 日本 49/1584 (8 Repositories, 92stars)
+* 複数のC#、 PowerShell、Serverless実装を公開
+* Github のPowerShellランキングにおいて、世界 111/14147, 日本 1/102 (23 Repositories, 250stars)
+* Github C#ランキングにおいて、世界 2566/227710, 日本 42/1613 (46 Repositories, 121stars)
 
 > http://git-awards.com/users/search?login=guitarrapc
 
@@ -117,22 +124,31 @@ IT専門Webサイトで複数執筆
 #### C#
 
 * C# 4.0（2013年）から日常的に利用。非同期操作、排他制御を用いたプログラミングができる。
-* ASP.NET MVC 5, Owin, ASP.NET Core MVC 2.0 の実務経験あり。
-* .NETCore は 1.0/2.0系の実務経験あり。
-* UnityによるVR/MRアプリケーションの実務開発、リリース経験あり(年4本リリース)
-* アプリケーション作成、インフラツールの構築で最も利用している。
-* AWS/GCP/Azure 環境をSDK用いて自動構築経験あり
-* SignalRを使ったリアルタイム通信チャットの基盤に利用
-* 2017年9月～ Unity 5系2017系を用いたPC向けVR、モバイル向けVR、HoloLensの実務経験あり。
+* ASP.NET MVC 5, Owin, ASP.NET Core MVC/API 2.2 の実務経験あり。
+* .NETCore は 1.0/2.x系の実務経験あり。
+* UnityによるVR/MRアプリケーションの実務開発、リリース経験、SESでの複数プロジェクト参加と基盤整備経験あり(年4本リリース)
+* アプリケーション作成、インフラツールのの開発、運用経験あり。
+* AWS/GCP/Azure 環境をSDK用いて自動構築経験あり。
+* SignalRを使ったリアルタイム通信チャットの基盤の実務経験あり。
+* 2017年9月～ Unity 5系2017系2018系(IOS/UWP/IL2CPP)を用いたPC向けVR、モバイル向けVR、HoloLensの実務経験あり。
 
 #### PowerShell
 
-* インフラ基盤開発のため7年ほど経験。
-* PowerShell Remotingを利用したクラスタ環境のインフラ基盤の構築経験あり。
+* インフラ基盤開発のため日常的に利用。
+* PowerShell Remotingを利用したクラスタ環境のインフラ基盤の構築経験とWin/Linux/macのマルチプラットフォーム構築経験あり。
 * PowerShell DSCを利用したWindowsインフラ基盤の構築経験あり。
+* PowerShell クラスを利用した型、スコープを厳密に扱ったプログラミングができる。
 * 社内イントラネット基盤のため、Windows ActiveDirectory 群の自動構築経験あり。
 * Office365とActiveDirectoryの自動連行構築経験あり。
 * AWS/GCP/Azure 環境をSDK用いて自動構築経験あり
+
+#### Terraform
+
+#### Golang
+
+* 2018年3月からインフラ基盤ツール開発のため利用。
+* Windows/Linuxサーバー環境における開発、運用に利用。
+* コードリーディングを行い、C#など他言語への読み替え実装を行える。
 
 #### Swift
 
@@ -143,7 +159,7 @@ IT専門Webサイトで複数執筆
 #### VB.NET
 
 * インプリメンテーションコンサルタント時代に2年経験。
-* 普通に読み書きができ、データベース操作、Windows CE向けアプリケーション開発ができる。
+* 読み書きができ、データベース操作、Windows CE向けアプリケーション開発ができる。
 
 #### Ruby
 
@@ -160,11 +176,26 @@ IT専門Webサイトで複数執筆
 * インプリメンテーションコンサルタント時代に2年経験。
 * データベースからのデータ読み取りとcsvへのデータ整形が行える。
 
-#### Go
+#### Vue.js
 
-* GAE上のサーバーサイド利用のため現在勉強中(2018/3～)
+* SPAでのバックエンド(C#/Golang)のフロントとして開発中。
 
 ## 職務経歴 (現職)
+
+### 合同会社きのこ(2018/05～)
+
+* 自社プロダクトの開発(Golang / Vue.js / TypeScript 他)
+* 受託開発
+* 技術コンサルティング
+
+#### 業務委託(SES契約)で複数社との契約
+
+* ディープラーニング企業のクラウド環境開発基盤のアーキテクト/構築、技術支援、社内IT支援の実施、IaC化の実施
+* MR企業のHoloLensを用いたMRアプリケーション開発、HoloLens/Unity開発基盤の構築、Unityアーキテクチャ構築、クラウド開発基盤の技術支援、開発パイプラインの構築、IaC化の実施
+* 仮想通貨企業におけるクラウド環境開発基盤のアーキテクト/構築、技術支援、基盤ツール開発
+* ゲーム企業におけるインフラ設計と開発、アプリケーションとの連携、ミドルウェア開発と組み込み、技術支援、開発パイプライン改善、コンテナ化
+
+## 職務経歴 (前職以前)
 
 ### 株式会社グラニ (2013/04〜)
 
@@ -238,8 +269,6 @@ IT専門Webサイトで複数執筆
 * 人事部と協力してエンジニア採用（中途）に関する書類審査、面接業務を行なっている。
 * 社内勉強会の実施、コンテナ会(社内のエンジニアが週に1度集まってコンテナ/.NETCoreのプレゼンテーションを行う会の運営)
 * 社内AD環境の構築運用、社内ツールの選定・導入・交渉、運用
-
-## 職務経歴 (前職以前)
 
 ### Micros-Fidelio Japan株式会社(現Oracle) (2008/09〜2013/03)
 
